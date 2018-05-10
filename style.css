@@ -1,7 +1,6 @@
 body {
   height: 100%;
   margin: 0;
-  text-align: center;
   width: 100%;
 }
 
@@ -9,6 +8,7 @@ h2 {
   font-size: 32px;
   font-family: Georga;
   font-weight: bold;
+  text-align: center;
   color: red;
 }
 
