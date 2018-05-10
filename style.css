@@ -22,3 +22,7 @@ p {
 .test-bold {
   font-weight: bold;
 }
+
+.test-2 {
+  text-align: center;
+}
