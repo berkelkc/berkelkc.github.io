@@ -1,13 +1,11 @@
 body {
   height: 100%;
-  margin: 1;
+  margin: 0;
   width: 100%;
   color: black;
   background-color: white;
   border: 1px solid powderblue;
-  display: flex;
-  flex-direction: column;
-  margin: 5rem;
+  margin: 20px;
 }
 
 h2 {
