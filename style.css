@@ -5,7 +5,9 @@ body {
   color: black;
   background-color: white;
   border: 1px solid powderblue;
-  padding: 30px;
+  display: flex;
+  flex-direction: column;
+  margin: 2rem;
 }
 
 h2 {
