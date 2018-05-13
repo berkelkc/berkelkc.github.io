@@ -7,7 +7,7 @@ body {
   border: 1px solid powderblue;
   display: flex;
   flex-direction: column;
-  margin: 2rem;
+  margin: 5rem;
 }
 
 h2 {
