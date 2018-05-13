@@ -1,6 +1,6 @@
 body {
   height: 100%;
-  margin: 0;
+  margin: 100px;
   width: 100%;
   color: black;
   background-color: white;
@@ -25,6 +25,7 @@ h2 {
   display: flex;
   flex-direction: wrap;
   border: 1px solid black;
+  border-style-left: transparent;
 }
 
 .experience {
