@@ -4,8 +4,6 @@ body {
   width: 100%;
   color: black;
   background-color: white;
-  border: 1px solid powderblue;
-  margin: 20px;
 }
 
 h2 {
@@ -13,7 +11,6 @@ h2 {
   font-family: Georga;
   font-weight: bold;
   text-align: center;
-  color: red;
 }
 
 .test-bold {
@@ -27,26 +24,26 @@ h2 {
 .objective {
   display: flex;
   flex-direction: wrap;
-  border: 2px solid black;
+  border: 1px solid black;
 }
 
 .experience {
   display: flex;
   flex-direction: wrap;
-  border: 2px solid black;
+  border: 1px solid black;
   text-align: left;
 }
 
 .technical {
   display: flex;
   flex-direction: wrap;
-  border: 2px solid black;
-  text-align: left;  
+  border: 1px solid black;
+  text-align: right;  
 }
 
 .education {
   display: flex;
   flex-direction: wrap;
-  border: 2px solid black;
-  text-align: left;  
+  border: 1px solid black;
+  text-align: center;  
 }
