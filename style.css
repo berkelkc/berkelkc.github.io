@@ -22,10 +22,7 @@ h2 {
 }
 
 .objective {
-  display: flex;
-  flex-direction: wrap;
-  border: 1px solid black;
-  border-style-left: transparent;
+  padding: 10px;
 }
 
 .experience {
