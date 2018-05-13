@@ -22,19 +22,20 @@ h2 {
 }
 
 .objective {
-  padding: 10px;
+  padding: 25px;
 }
 
 .experience {
-  padding: 15px;
+  padding: 25px;
 }
 
 .technical {
-  padding: 20px;
+  padding: 25px;
 }
 
 .education {
-  padding: 25px; 
+  padding: 25px;
+  margin: 0;
 }
 
 .address {
