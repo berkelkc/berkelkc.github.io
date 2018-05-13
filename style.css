@@ -26,3 +26,29 @@ h2 {
   text-align: center;
 }
 
+.objective {
+  display: flex;
+  flex-direction: wrap;
+  border: 2px solid black;
+}
+
+.experience {
+  display: flex;
+  flex-direction: wrap;
+  border: 2px solid black;
+  text-align: left;
+}
+
+.technical {
+  display: flex;
+  flex-direction: wrap;
+  border: 2px solid black;
+  text-align: left;  
+}
+
+.education {
+  display: flex;
+  flex-direction: wrap;
+  border: 2px solid black;
+  text-align: left;  
+}
